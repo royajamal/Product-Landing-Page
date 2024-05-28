@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 10px;
+  }
+  
+  header {
+      position: fixed;
+      background-color: antiquewhite;
+      color: black;
+      padding: 1em;
+      text-align: center;
+  }
+  
+  small-image {
+      width: 150px;
+      height: 100px;
+  }
+  
+  small-image {
+      width: 140px;
+      height: 99px;
+  }
