@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 10px;
 }
-  
+
 header {
   position: fixed;
   background-color: antiquewhite;
@@ -11,13 +11,13 @@ header {
   padding: 1em;
   text-align: center;
 }
-  
-small-image {
+
+image {
   width: 150px;
   height: 100px;
 }
-  
-small-image {
+ 
+image {
   width: 140px;
   height: 99px;
 }
