@@ -19,7 +19,7 @@
   height: 90vh;
 }
 
-.navbar .logo{
+.navbar .logo {
   width: 60px;
   height: 60px;
   background-color: transparent;
@@ -39,7 +39,8 @@
   transform: translate(-10%, -50%);
   font-family: 'Arizonia', cursive;
 }
-.navbar{
+
+.navbar {
   width: 90%;
   margin: auto;
   height: 15vh;
@@ -91,7 +92,7 @@ img {
 }
 
 .hero img {
-  width: 45pvw;
+  width: 45vw;
 }
 
 .content {
@@ -104,7 +105,7 @@ img {
   padding: 20px 50px;
 }
 
-.content h3 {
+.content, h3 {
   color: rgb(73,73,73);
   font-size: 20px;
   text-transform: uppercase;
@@ -135,7 +136,8 @@ img {
   background-color: white;
   color: #3c6255;
 }
-@media  screen and  (max-width: 796px;) {
+
+@media  screen and  (max-width: 796px); {
   .nav-bar {
     display: none;
   }
