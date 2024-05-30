@@ -46,7 +46,7 @@
   height: 15vh;
 }
 
-.navbar, .nav-bar {
+.navbar , .nav-bar {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -105,7 +105,7 @@ img {
   padding: 20px 50px;
 }
 
-.content, h3 {
+.content , h3 {
   color: rgb(73, 73, 73);
   font-size: 20px;
   text-transform: uppercase;
@@ -137,8 +137,10 @@ img {
   color: #3c6255;
 }
 
-@media  screen and(max-width: 796px); {
+@media screen and(max-width: 796px);
+{
   .nav-bar {
     display: none;
   }
 }
+
