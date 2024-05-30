@@ -141,7 +141,8 @@ h3 {
 
 @media screen and
   (max-width: 796px);
- {
+{
+
   .nav-bar {
     display: none;
   }
