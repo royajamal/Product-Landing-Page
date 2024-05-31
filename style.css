@@ -139,7 +139,6 @@ h3 {
   color: #3c6255;
 }
 
-
 @media screen and (max-width: 796px);{
   .nav-bar {
     display: none;
