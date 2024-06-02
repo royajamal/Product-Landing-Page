@@ -7,27 +7,11 @@ project landing page  this project is  abuot mekup product i create this that if
 > 
 
 
-<!-- Include code snippets or examples to demonstrate your project. -->
-
-/* .wrapper {
-  background-color: white;
-  width: 90%;
-  height: 90vh;
-} */
-
-//<nav class="nav-bar">
-        <a class="nav-link" id="Features" href="#Features">Features</a>
-        <li><a class="nav-link" href="#Features">Home</a></li>
-        <li><a class="nav-link" href="#Features">Orders</a></li>
-        <li><a class="nav-link" href="#Features">Product</a></li>
-        <li><a class="nav-link" href="#Features">Contact</a></li>
-      </nav> .
-
 ## Demo 📸
 
 Include a demo or animated GIF of your project. You can use tools like [asciinema](https://asciinema.org/) to record your terminal sessions.
 
-![Demo](<img width="913" alt="Screenshot 2024-05-31 040232" src="https://github.com/royajamal/Product-Landing-Page/assets/168343975/c1b4db77-894c-4fe0-a67e-d719a09db2cb">)
+![Demo](<img  src="https://github.com/royajamal/Product-Landing-Page/assets/168343975/c1b4db77-894c-4fe0-a67e-d719a09db2cb">)
 
 ## Technologies Used 🛠
 the technologies that i used to develop my project. is HTML and CSS.
@@ -37,21 +21,11 @@ Examples:
 
 - HTML
 - CSS
-- JavaScript
-- React
-- Node.js
-- Express
-- MongoDB
-- Tailwind CSS
 
 ## Installation 💻
 
-Provide step-by-step instructions on how to install and set up your project. Include any dependencies or prerequisites that need to be installed.
-
-# clone the repository.
-
 # git bash
-# git clone..
+# git clone..https://github.com/royajamal/Product-Landing-Page.git
  
 
 ## Author 👩‍💻
