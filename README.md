@@ -24,8 +24,9 @@ Examples:
 
 ## Installation 💻
 
-# git bash
-# git clone..https://github.com/royajamal/Product-Landing-Page.git
+#  (bash)
+# git clone..
+(https://github.com/royajamal/Product-Landing-Page.git)
  
 
 ## Author 👩‍💻
