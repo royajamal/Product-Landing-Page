@@ -25,7 +25,9 @@ Examples:
 
 (#  bash)
 (# git clone..https://github.com/royajamal/Product-Landing-Page.git)
- ()
+ (vscode)
+ (github)
+ 
 
 ## Author 👩‍💻
 
