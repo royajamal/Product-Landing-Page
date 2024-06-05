@@ -12,6 +12,7 @@ project landing page  this project is  abuot mekup product i create this that if
 Include a demo or animated GIF of your project. You can use tools like [asciinema](https://asciinema.org/) to record your terminal sessions.
 
 ![Demo](<img  src="https://github.com/royajamal/Product-Landing-Page/assets/168343975/c1b4db77-894c-4fe0-a67e-d719a09db2cb">)
+(https://royajamal.github.io/Product-Landing-Page/)
 
 ## Technologies Used 🛠
 the technologies that i used to develop my project. is HTML and CSS.
