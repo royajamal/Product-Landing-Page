@@ -32,7 +32,7 @@ Examples:
 ## Author 👩‍💻
 
 - GitHub: (https://github.com/royajamal/Product-Landing-Page)
- 
+- linkedIn: (https://www.linkedin.com/in/roya-jamal-2070b330a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Email: (royajamal2003@gmail.com)
 
 
