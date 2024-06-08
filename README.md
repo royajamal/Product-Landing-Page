@@ -23,11 +23,9 @@ Examples:
 
 ## Installation 💻
 
-( bash)
-(''git clone https://github.com/royajamal/Product-Landing-Page.git
-''')
- (vscode)
- (github)
+
+git clone https://github.com/royajamal/Product-Landing-Page.git
+
  
 
 ## Author 👩‍💻
